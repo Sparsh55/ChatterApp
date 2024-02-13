@@ -5,6 +5,9 @@ A full stack application for smooth and seamless chatting experience.
 ### screenshots
 ![image](https://github.com/Sparsh55/ChatterApp/assets/111353842/bd387a42-8b60-4fb3-bdf5-7df54f964a8c)
 
+![image](https://github.com/Sparsh55/ChatterApp/assets/111353842/25756b5e-66d6-469b-a8fc-6e5012ff110c)
+
+
 
 ### Description
 
